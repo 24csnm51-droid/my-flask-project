@@ -1,0 +1,28 @@
+SKILLSHARE PREMIUM FINAL — 2026 EDITION
+========================================
+
+SETUP
+-----
+1) Extract the ZIP and open the project folder in VS Code.
+2) Open a terminal:
+   cd project
+   pip install -r requirements.txt
+   python app.py
+3) Open: http://127.0.0.1:5000
+
+SECURITY VERIFICATION
+---------------------
+Learner registration and administrator security use a simple arithmetic CAPTCHA.
+No SMS gateway, OTP message, or paid SMS credentials are required.
+
+ADMIN DEMO LOGIN
+----------------
+Email: admin@skillshare.com
+Password: admin123
+
+IMPORTANT
+---------
+Do not delete skillshare.db.
+If you already have learner data, keep the existing database file.
+
+All other existing SkillShare features, pages, database, and design are retained.
